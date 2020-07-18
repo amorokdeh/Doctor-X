@@ -1,0 +1,29 @@
+control:
+https://stackabuse.com/phaser-3-and-tiled-building-a-platformer/
+
+font:
+https://www.youtube.com/watch?v=a17P2A4Bgko
+
+jump sound:
+https://freesound.org/people/LittleRobotSoundFactory/sounds/270323/
+
+fire sound:
+https://opengameart.org/content/laser-fire
+
+lose:
+https://opengameart.org/content/sound-effects-pack-2
+
+coin:
+https://opengameart.org/content/10-8bit-coin-sounds
+
+win:
+https://opengameart.org/content/win-music-3
+
+Button:
+https://opengameart.org/content/512-sound-effects-8-bit-style
+
+main menu:
+https://opengameart.org/content/winner
+
+start game soun:
+https://opengameart.org/content/typhoon-girls-untold-stories-full-ostsfx

@@ -3,6 +3,8 @@
 ## 🕹️ Overview
 Doctor X is a 2D jump-and-run game where the player takes on the role of Doctor X, battling against viruses that have spread across a deserted village. Doctor X uses a magical powder to destroy the viruses, gaining points as he progresses through 5 levels. The goal is to reach the tower at the end of each level and ultimately save the village.
 
+![Doctor X Gameplay Screenshot](assets/images/startBG.png)
+
 ### 🎮 Game Features:
 - **Five Levels**: Each level presents increasing challenges as the player progresses.
 - **Main Character**: Doctor X, dressed in a yellow suit and wearing a mask, can run, jump, shoot, and collect coins.

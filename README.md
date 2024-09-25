@@ -36,3 +36,6 @@ The game is inspired by the global battle against viruses during the pandemic. S
 ## 📊 Score System:
 - Players earn points by shooting viruses and collecting coins.
 - Progress is saved at each level, and the player’s score increases based on their actions.
+
+- ## 🎥 Demo
+Watch the project in action: [YouTube Link](https://www.youtube.com/watch?v=CaZKJvPybPQ)
